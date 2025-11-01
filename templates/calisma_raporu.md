@@ -20,7 +20,7 @@ Yapılan çalışmada ne/ neler yapılmak istendi? (ör. ROS2 Humble kurulumu + 
 1. Adım 1 — (örn. Ubuntu 22.04 üzerine ROS2 Humble kurulumu, komutlar)
    ```bash
    sudo apt update && sudo apt install -y ...
-```
+   ```
 
 2. Adım 2 — (örn. örnek paket oluşturma, build, ros2 run)
     
@@ -38,7 +38,7 @@ Yapılan çalışmada ne/ neler yapılmak istendi? (ör. ROS2 Humble kurulumu + 
 1. Adım 1 — (örn. Ubuntu 22.04 üzerine ROS2 Humble kurulumu, komutlar)
    ```bash
    sudo apt update && sudo apt install -y ...
-```
+   ```
 
 2. Adım 2 — (örn. örnek paket oluşturma, build, ros2 run)
     
@@ -52,14 +52,9 @@ Yapılan çalışmada ne/ neler yapılmak istendi? (ör. ROS2 Humble kurulumu + 
 | örn. `gazebo` plugin hatası | `sudo apt install ...` veya belirli versiyon yükleme | Hangi ortamda oldu (VM/WSL/native) |
 
 ---
-
-> Bu adımlarda neler yaptığınızı kullandığınız komutları buraya ekleyeniz, yararlandığınız linkler, dökümanlar veya faydalı olabilecek başka bilgiler var ise bunları da buraya ekleyiniz.
-
----
-    
+Bu adımlarda neler yaptığınızı kullandığınız komutları buraya ekleyeniz, yararlandığınız linkler, dökümanlar veya faydalı olabilecek başka bilgiler var ise bunları da buraya ekleyiniz.
 
 ---
-
 ## Sonuç / Çıktılar
 
 -  Test tamamlandı

@@ -16,7 +16,7 @@ Bu yol dış katkılar veya ciddi kod değişiklikleri için tavsiye edilir.
    ```bash
    git clone https://github.com/<sizin-kullanici>/<repo>.git
    cd YODA-IHA-YAZILIM
-````
+    ````
 
 2. Upstream ekleyin (orijinal repoyu takip etmek için):
     
