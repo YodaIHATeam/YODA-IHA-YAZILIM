@@ -1,0 +1,15 @@
+CS dosyasını unityden drone bağla.
+rigidbody'i de bağla
+linear dumping 1 ayarla
+
+sonra ardupilot başlat.
+şimdilik stablized modda çalışıyor. GPS verisi alamayabiliyor
+
+ArduPilotBridge.cs de motor thrustı 2.5 3 gibi aralık yap
+
+
+önce unityi başlat. #ardupilotbridge.cs
+
+sonra ardupilot başlat.
+gps verilerin yüklenmesi zaman alabilir.
+
