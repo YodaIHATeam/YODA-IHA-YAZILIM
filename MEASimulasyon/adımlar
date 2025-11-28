@@ -13,3 +13,4 @@ ArduPilotBridge.cs de motor thrustı 2.5 3 gibi aralık yap
 sonra ardupilot başlat.
 gps verilerin yüklenmesi zaman alabilir.
 
+sim_vehicle.py -v ArduCopter -f JSON:127.0.0.1 ardupilotu ##json modunda başlatmak için
