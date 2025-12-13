@@ -1,8 +1,8 @@
 # ArduPilot SITL Kurulumu ve Simülasyon Başlatma
 
-- Sorumlu: @WorldOFBerk
-- Tarih: 24-10-2025
-- Konu: ArduPilot SITL kurulumu, sim_vehicle.py ile uçuş simülasyonu
+**Sorumlu:** [@WorldOfBerk](https://github.com/WorldOfBerk)
+**Tarih:** 24-10-2025
+**Konu:** ArduPilot SITL kurulumu, sim_vehicle.py ile uçuş simülasyonu
 
 -----------------------------------------------------
 
@@ -80,7 +80,7 @@ Beklenen mesaj örnekleri:
 ![Şekil 2](../images/arduplanelog.png)  
 *Şekil 2. ArduPlane başlatma ekranı.*
 
-![Şekil 3](../images/ardupilotmap.png)  
+![Şekil 3](../images/arduplanemap.png)  
 *Şekil 3. Harita arayüzü ve uçak konumu.*
 
 ![Şekil 4](../images/mavproxyterminal.png)  

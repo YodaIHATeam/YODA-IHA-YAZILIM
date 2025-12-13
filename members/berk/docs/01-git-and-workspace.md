@@ -1,6 +1,6 @@
 # Git Kurulumu ve Workspace Standartları
 
-**Sorumlu:** @WorldOfBerk  
+**Sorumlu:** [@WorldOfBerk](https://github.com/WorldOfBerk)
 **Tarih:** 24-10-2025  
 **Konu:** Git Kurulumu  
 
