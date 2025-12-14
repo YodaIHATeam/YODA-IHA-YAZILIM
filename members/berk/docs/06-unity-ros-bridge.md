@@ -105,11 +105,14 @@ Beklenen çıktı:
 
 Not: Unity'de üst menüde Robotics isimli bir kısım belirecek burada ROS Settings kısmına tıklanarak ROS 2 seçilmeli.
 
-![Unity üst menüde Robotics](../images/unity_menu.png)
-*Şekil 1: Unity üst menüde Robotics sekmesi*
+<img src="../images/unity_menu.png" width="600"/>
 
-![ROS Settings - ROSConnection ayarları](../images/ros_settings.png)
-*Şekil 2: ROS-TCP Connector bağlantı ayarları*
+<p align="center"><em>Şekil 1: Unity üst menüde Robotics sekmesi</em></p>
+
+<img src="../images/ros_settings.png" width="600"/>
+
+<p align="center"><em>Şekil 2: ROS-TCP Connector bağlantı ayarları</em></p>
+
 
 -----------------------------------------------------
 ## 5) HIZLI TEST (UNITY -> ROS 2)
