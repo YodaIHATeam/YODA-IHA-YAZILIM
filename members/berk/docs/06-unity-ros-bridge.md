@@ -1,6 +1,7 @@
 # Unity – ROS 2 Bağlantısı (ROS-TCP Connector + ROS-TCP Endpoint)
-**Sorumlu:** [@WorldOfBerk](https://github.com/WorldOfBerk)
-**Tarih:** 24-10-2025
+
+**Sorumlu:** [@WorldOfBerk](https://github.com/WorldOfBerk)		
+**Tarih:** 24-10-2025		
 **Konu:** Unity ile ROS 2 Humble arasında TCP tabanlı çift yönlü iletişim kurulumu
 
 -----------------------------------------------------

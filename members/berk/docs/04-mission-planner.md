@@ -1,7 +1,7 @@
 # Mission Planner Kurulumu ve SITL Bağlantısı
 
-**Sorumlu:** [@WorldOfBerk](https://github.com/WorldOfBerk)
-**Tarih:** 30-11-2025
+**Sorumlu:** [@WorldOfBerk](https://github.com/WorldOfBerk)		
+**Tarih:** 30-11-2025		
 **Konu:** Mission Planner kurulumu, SITL bağlantısı, UDP port doğrulaması
 
 -----------------------------------------------------

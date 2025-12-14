@@ -1,7 +1,7 @@
 # ArduPilot SITL Kurulumu ve Simülasyon Başlatma
 
-**Sorumlu:** [@WorldOfBerk](https://github.com/WorldOfBerk)
-**Tarih:** 24-10-2025
+**Sorumlu:** [@WorldOfBerk](https://github.com/WorldOfBerk)		
+**Tarih:** 24-10-2025		
 **Konu:** ArduPilot SITL kurulumu, sim_vehicle.py ile uçuş simülasyonu
 
 -----------------------------------------------------

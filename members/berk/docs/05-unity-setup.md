@@ -1,7 +1,7 @@
 # Unity Hub ve Unity Editor Kurulumu (Linux .deb)
 
-**Sorumlu:** [@WorldOfBerk](https://github.com/WorldOfBerk)
-**Tarih:** 24-10-2025
+**Sorumlu:** [@WorldOfBerk](https://github.com/WorldOfBerk)		
+**Tarih:** 24-10-2025		
 **Konu:** Unity Hub kurulumu (.deb), Editor indirme, temel proje yapısı
 
 -----------------------------------------------------
