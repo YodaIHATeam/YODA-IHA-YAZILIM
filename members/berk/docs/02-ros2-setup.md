@@ -1,8 +1,8 @@
 # ROS2 Humble Kurulumu ve Test
 
-**Sorumlu:** [@WorldOfBerk](https://github.com/WorldOfBerk)		
-**Tarih:** 24-10-2025		
-**Konu:** ROS2 Kurulumu, Workspace Oluşturma, Talker/Listener Testleri
+- **Sorumlu:** [@WorldOfBerk](https://github.com/WorldOfBerk)		
+- **Tarih:** 24-10-2025		
+- **Konu:** ROS2 Kurulumu, Workspace Oluşturma, Talker/Listener Testleri
 
 -----------------------------------------------------
 
