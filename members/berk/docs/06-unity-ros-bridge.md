@@ -96,11 +96,6 @@ Beklenen çıktı:
 - Unity Package Manager üzerinden “Add package from git URL” kullanılabilir
 - Alternatif: Unity Robotics “ROS-TCP-Connector” package’ını indirip import edin
 
-![Unity üst menüde Robotics](../images/unity_menu.png)
-*Şekil 1: Unity üst menüde Robotics sekmesi*
-
-![ROS Settings - ROSConnection ayarları](../images/ros_settings.png)
-*Şekil 2: ROS-TCP Connector bağlantı ayarları*
 
 4) Scene’e bir boş GameObject ekle: “ROS”
 - Üzerine “ROSConnection” component ekle
@@ -109,6 +104,12 @@ Beklenen çıktı:
 - Play Mode’da bağlanınca ROS terminalinde “Connection from 127.0.0.1” görülür
 
 Not: Unity'de üst menüde Robotics isimli bir kısım belirecek burada ROS Settings kısmına tıklanarak ROS 2 seçilmeli.
+
+![Unity üst menüde Robotics](../images/unity_menu.png)
+*Şekil 1: Unity üst menüde Robotics sekmesi*
+
+![ROS Settings - ROSConnection ayarları](../images/ros_settings.png)
+*Şekil 2: ROS-TCP Connector bağlantı ayarları*
 
 -----------------------------------------------------
 ## 5) HIZLI TEST (UNITY -> ROS 2)
